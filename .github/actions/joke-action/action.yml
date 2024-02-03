@@ -1,7 +1,7 @@
-name: "my joke action" 
+name: "my joke action"
 
-description: "use an external API to retrieve and display a joke" 
+description: "use external API to retrieve and display a joke"
 
-runs: 
-  using: "node12" 
+runs:
+  using: "node12"
   main: "main.js"
